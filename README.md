@@ -5,6 +5,13 @@ This is the source code for the paper, "A Multimodal Feature Distillation with C
 The model configuration (i.e., network construction) file is net.py in the directory .\model.
 To train and test by running train.py and test.py.
 
+Recommended dependencies:
+```
+Python <= 3.8
+Torch <= 1.7.1
+CUDA <= 11.1
+```
+
 ## Evaluation
 Datasets Brain Tumor Segmentation (BraTS) Challenge 2018/2020 ([BraTS2018](https://www.med.upenn.edu/sbia/brats2018.html)/[BraTS2020](https://www.med.upenn.edu/cbica/brats2020/)).
 
