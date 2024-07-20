@@ -27,16 +27,20 @@ Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., & Ting, C.-M.. A multimodal featu
 
 - Springer Style</br>
 Kang, M., Ting, F. F., Phan, R.C.-W., Ge, Z., Ting, C.-M.: A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities. arXiv preprint [arXiv:2404.14019](https://arxiv.org/abs/2404.14019) (2024)</br>
+
+- Elsevier Reference Style</br>
+M. Kang, C.-M. Ting, F.F. Ting, Z. Ge, R.C.-W. Phan, A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities, arXiv:2404.14019, 2024.</br>
+
 <!--
 > BibTeX Format</br>
 ```
 \begin{thebibliography}{1}
-\bibitem{b1} M. Kang, C.-M. Ting, F. F. Ting, and R. C.-W. Phan, "Asf-yolo: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation," \emph{Image Vis. Comput.}, in press, 105057, May 2024.
+\bibitem{bib1} M. Kang, R. C.-W. Phan, F. F. Ting, Z. Ge, and C.-M. Ting, "A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities," {\it Image Vis. Comput.}, in press, 105057, May 2024.
 \end{thebibliography}
 ```
 ```
-@article{Kang23Rcsyolo,
-  author = "Kang, Ming and Ting, Chee-Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W.",
+@article{Kang24Mctseg,
+  author = "Kang, Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W., Zongyuan Ge, Chee-Ming and Ting, ",
   title = "ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation",
   journal = "Image Vis. Comput.",
   volume = "in press",
@@ -50,7 +54,7 @@ Kang, M., Ting, F. F., Phan, R.C.-W., Ge, Z., Ting, C.-M.: A multimodal feature 
 ```
 ```
 @article{Kang23Rcsyolo,
-  author = "Ming Kang and Chee-Ming Ting and Fung Fung Ting and Rapha{\"e}l C.-W. Phan",
+  author = "Ming Kang and Fung Fung Ting and Rapha{\"e}l C.-W. Phan and Zongyuan Ge and Chee-Ming Ting",
   title = "ASF-YOLO: A novel yolo model with attentional scale sequence fusion for cell instance segmentation",
   journal = "Image Vis. Comput.",
   volume = "in press",
