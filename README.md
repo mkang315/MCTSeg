@@ -3,7 +3,7 @@ This is the source code for the paper, "A Multimodal Feature Distillation with C
 
 ## Model
 The Multimodal feature distillation with CNN-Transformer hybrid network for incomplete multimodal brain tumor Segmentation (MCTSeg) model configuration (i.e., network construction) file is net.py in the directory [.\model](https://github.com/mkang315/MCTSeg/tree/main/model).
-To train and test by running train.py and test.py.
+To train and test by running [train.py](https://github.com/mkang315/MCTSeg/blob/main/train.py) and [test.py](https://github.com/mkang315/MCTSeg/blob/main/test.py).
 
 Recommended dependencies:
 ```
