@@ -2,7 +2,7 @@
 This is the source code for the paper, "A Multimodal Feature Distillation with CNN-Transformer Network for Brain Tumor Segmentation with Incomplete Modalities", of which I am the first author.
 
 ## Model
-The model configuration (i.e., network construction) file is net.py in the directory .\model.
+The Multimodal feature distillation with CNN-Transformer hybrid network for incomplete multimodal brain tumor Segmentation (MCTSeg) model configuration (i.e., network construction) file is net.py in the directory .\model.
 To train and test by running train.py and test.py.
 
 Recommended dependencies:
