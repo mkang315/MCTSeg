@@ -1,5 +1,5 @@
 # Official MCTSeg
-This is the source code for the paper, "A Multimodal Feature Distillation with CNN-Transformer Network for Brain Tumor Segmentation with Incomplete Modalities", of which I am the first author.
+This is the source code for the paper, "A Multimodal Feature Distillation with CNN-Transformer Network for Brain Tumor Segmentation with Incomplete Modalities", of which I am the first author.<!-- [IEEE Journal of Biomedical and Health Informatics (IEEE J-BHI or IEEE JBHI)](https://www.embs.org/jbhi)-->
 
 ## Model
 The Multimodal feature distillation with CNN-Transformer hybrid network for incomplete multimodal brain tumor Segmentation (MCTSeg) model configuration (i.e., network construction) file is net.py in the directory [.\model](https://github.com/mkang315/MCTSeg/tree/main/model).
@@ -29,37 +29,40 @@ Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., & Ting, C.-M.. A multimodal featu
 Kang, M., Ting, F. F., Phan, R.C.-W., Ge, Z., Ting, C.-M.: A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities. arXiv preprint [arXiv:2404.14019](https://arxiv.org/abs/2404.14019) (2024)</br>
 
 - Elsevier Reference Style</br>
-M. Kang, C.-M. Ting, F.F. Ting, Z. Ge, R.C.-W. Phan, A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities, arXiv:2404.14019, 2024.</br>
+M. Kang, F.F. Ting, R.C.-W. Phan, Z. Ge, C.-M. Ting, A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities, arXiv:2404.14019, 2024.</br>
 
 <!--
 > BibTeX Format</br>
 ```
 \begin{thebibliography}{1}
-\bibitem{bib1} M. Kang, R. C.-W. Phan, F. F. Ting, Z. Ge, and C.-M. Ting, "A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities," {\it Image Vis. Comput.}, in press, 105057, May 2024.
+\bibitem{bib1} M. Kang, R. C.-W. Phan, F. F. Ting, Z. Ge, and C.-M. Ting, "A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities," {\it IEEE J. Biomed. Health Inform.}, in press, 105057, May 2024.
 \end{thebibliography}
 ```
 ```
 @article{Kang24Mctseg,
-  author = "Kang, Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W., Zongyuan Ge, Chee-Ming and Ting, ",
-  title = "ASF-YOLO: a novel YOLO model with attentional scale sequence fusion for cell instance segmentation",
-  journal = "Image Vis. Comput.",
-  volume = "in press",
-  pages = "105057",
-  publisher = "Elsevier",
-  address = "Amsterdam",
+  author = "Kang, Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W. and Ge, Zongyuan and Ting, Chee-Ming",
+  title = "A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities",
+  journal = "IEEE J. Biomed. Health Inform.",
+  volume = "28",
+  number = "00",
+  pages = "0000--0000",
+  publisher = "IEEE",
+  address = "Piscataway",
   year = "2024",
-  doi= "10.1016/j.imavis.2024.105057",
-  url = "https://doi.org/10.1016/j.imavis.2024.105057"
+  doi= "10.1109/JBHI.2024.3400000",
+  url = "https://doi.org/10.1109/JBHI.2024.3400000"
 }
 ```
 ```
-@article{Kang23Rcsyolo,
+@article{Kang24Mctseg,
   author = "Ming Kang and Fung Fung Ting and Rapha{\"e}l C.-W. Phan and Zongyuan Ge and Chee-Ming Ting",
-  title = "ASF-YOLO: A novel yolo model with attentional scale sequence fusion for cell instance segmentation",
-  journal = "Image Vis. Comput.",
-  volume = "in press",
-  note = "p. 105057",
-  month = "May",
+  title = "A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities",
+  journal = "IEEE J. Biomed. Health Inform.",
+  volume = "28",
+  number = "00",
+  pages = "0000--0000",
+  note = "in press",
+  month = "Dec.",
   year = "2024",
 }
 ```
