@@ -15,7 +15,7 @@ CUDA <= 11.1
 ## Evaluation
 Datasets Brain Tumor Segmentation (BraTS) Challenge 2018/2020 ([BraTS2018](https://www.med.upenn.edu/sbia/brats2018.html)/[BraTS2020](https://www.med.upenn.edu/cbica/brats2020/)).
 
-## Suggested Citation
+## Referencing Guide
 Our manuscript has been uploaded on [arXiv](https://arxiv.org/abs/2404.14019). Please cite our paper if you use code from this repository:
 > Plain Text
 
