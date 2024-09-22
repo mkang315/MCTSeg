@@ -25,13 +25,13 @@ M. Kang, C.-M. Ting, F.F. Ting, R.C.-W. Phan, Z. Ge, A multimodal feature distil
 - Harvard (Name–Date) Style</br>
 Kang, M., Ting, C.-M., Ting, F. F., Phan, R.C.-W., Ge, Z., 2024. A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities. arXiv preprint, arXiv:2404.14019.</br>
 
-- IEEE Style</br>
+- IEEE Reference Style</br>
 M. Kang, C.-M. Ting, F. F. Ting, R. C.-W. Phan, and Z. Ge, "A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities," arXiv:2404.14019, Apr. 2024.</br>
 
-- Nature Style</br>
+- Nature Referencing Style</br>
 Kang, M., Ting, C.-M., Ting, F. F., Phan, R. C.-W., & Ge, Z. A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities. Preprint at https://arxiv.org/abs/2404.14019 (2024).</br>
 
-- Springer Style</br>
+- Springer Reference Style</br>
 Kang, M., Ting, C.-M., Ting, F. F., Phan, R.C.-W., Ge, Z.: A multimodal feature distillation with CNN-transformer network for brain tumor segmentation with incomplete modalities. arXiv preprint [arXiv:2404.14019](https://arxiv.org/abs/2404.14019) (2024)</br>
 
 - Elsevier Reference Style</br>
