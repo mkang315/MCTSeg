@@ -34,8 +34,6 @@ Kang, M., Ting, C.-M., Ting, F. F., Phan, R. C.-W., & Ge, Z. A multimodal featur
 - Springer Reference Style</br>
 Kang, M., Ting, C.-M., Ting, F. F., Phan, R.C.-W., Ge, Z.: A multimodal feature distillation with CNN-transformer network for brain tumor segmentation with incomplete modalities. arXiv preprint [arXiv:2404.14019](https://arxiv.org/abs/2404.14019) (2024)</br>
 
-- Elsevier Reference Style</br>
-
 
 <!--
 > BibTeX Format</br>
