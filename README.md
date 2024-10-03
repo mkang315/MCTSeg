@@ -2,8 +2,8 @@
 This is the source code for the paper, "A Multimodal Feature Distillation with CNN-Transformer Network for Brain Tumor Segmentation with Incomplete Modalities", of which I am the first author.<!-- [IEEE Journal of Biomedical and Health Informatics (IEEE J-BHI or IEEE JBHI)](https://www.embs.org/jbhi)-->
 
 ## Model
-The Multimodal feature distillation with CNN-Transformer hybrid network for incomplete multimodal brain tumor Segmentation (MCTSeg) model configuration (i.e., network construction) file is net.py in the directory [.\model](https://github.com/mkang315/MCTSeg/tree/main/model).
-To train and test by running [train.py](https://github.com/mkang315/MCTSeg/blob/main/train.py) and [test.py](https://github.com/mkang315/MCTSeg/blob/main/test.py).
+The Multimodal feature distillation with CNN-Transformer hybrid network for incomplete multimodal brain tumor Segmentation (MCTSeg) model configuration (i.e., network construction) file is net.py in the directory [.\model].
+To train and test by running [train.py] and [test.py].
 
 Recommended dependencies:
 ```
@@ -14,7 +14,7 @@ CUDA <= 11.1
 
 ## Evaluation
 Datasets Brain Tumor Segmentation (BraTS) Challenge 2018/2020 ([BraTS2018](https://www.med.upenn.edu/sbia/brats2018.html)/[BraTS2020](https://www.med.upenn.edu/cbica/brats2020/)).
-
+<!--
 ## Referencing Guide
 Our manuscript has been uploaded on [arXiv](https://arxiv.org/abs/2404.14019). Please cite our paper if you use code from this repository:
 > Plain Text
@@ -34,8 +34,6 @@ Kang, M., Ting, C.-M., Ting, F. F., Phan, R. C.-W., & Ge, Z. A multimodal featur
 - Springer Reference Style</br>
 Kang, M., Ting, C.-M., Ting, F. F., Phan, R.C.-W., Ge, Z.: A multimodal feature distillation with CNN-transformer network for brain tumor segmentation with incomplete modalities. arXiv preprint [arXiv:2404.14019](https://arxiv.org/abs/2404.14019) (2024)</br>
 
-
-<!--
 > BibTeX Format</br>
 ```
 \begin{thebibliography}{1}
@@ -71,10 +69,9 @@ Kang, M., Ting, C.-M., Ting, F. F., Phan, R.C.-W., Ge, Z.: A multimodal feature 
 }
 ```
 <sup>**NOTE:** Please remove some optional *BibTeX* fields, for example, `series`, `volume`, `address`, `url` and so on, while the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the .bst file. `kang2023rcsyolo` could be `b1`, `bib1`, or `ref1` when references appear in the order in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`. </sup>
--->
 
 ## License
-MCTSeg is released under the BSD 3-Clause "New" or "Revised" License. Please see the [LICENSE](https://github.com/mkang315/PKGSeg/blob/main/LICENSE) file for more information.
-
+MCTSeg is released under the BSD 3-Clause "New" or "Revised" License. Please see the [LICENSE](https://github.com/mkang315/MCTSeg/blob/main/LICENSE) file for more information.
+-->
 ## Copyright Notice
 Many utility codes of our project base on the codes of [PyTorch-3DUNet](https://github.com/wolny/pytorch-3dunet), [mmFormer](https://github.com/YaoZhang93/mmFormer), [Vision Transformer PyTorch](https://github.com/asyml/vision-transformer-pytorch), and [Factor-Transfer-pytorch](https://github.com/Jangho-Kim/Factor-Transfer-pytorch) repositories.
