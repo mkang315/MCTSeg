@@ -6,7 +6,7 @@
 <a href="https://arxiv.org/abs/2404.14019"><img alt="Build" src="https://img.shields.io/badge/arXiv%20paper-2404.14019-b31b1b.svg"></a>
 </div>
 
-## Introduction
+## Description
 This is the source code for the paper, "A Multimodal Feature Distillation with CNN-Transformer Network for Brain Tumor Segmentation with Incomplete Modalities", of which I am the first author. The paper is a preprint without the intention to publish and available to download from [arXiv](https://arxiv.org/pdf/2404.14019).
 
 ## Model
