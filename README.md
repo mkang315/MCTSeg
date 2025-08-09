@@ -24,28 +24,28 @@ CUDA <= 11.1
 Datasets Brain Tumor Segmentation (BraTS) Challenge 2018/2020 ([BraTS2018](https://www.med.upenn.edu/sbia/brats2018.html)/[BraTS2020](https://www.med.upenn.edu/cbica/brats2020/)).
 
 ## Referencing Guide
-Our manuscript has been uploaded on [arXiv](https://arxiv.org/abs/2404.14019). Please cite our paper if you use code from this repository:
+Please cite the paper if using this repository. Here is a guide to referencing this work in various styles for formatting your references:
 > Plain Text
 
-- IEEE Reference Style</br>
+- **IEEE Reference Style**</br>
 M. Kang, F. F. Ting, R. C.-W. Phan, Z. Ge, and C.-M. Ting, "A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities," 2024, *arXiv:2404.14019*.</br>
 
-- IEEE Full Name Reference Style
+- **IEEE Full Name Reference Style**</br>
 M. Kang, F. F. Ting, R. C.-W. Phan, Z. Ge, and C.-M. Ting, "A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities," arXiv:2404.14019, 2024.</br>
 
-- Nature Reference Style</br>
+- **Nature Reference Style**</br>
 Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., & Ting, C.-M. A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities. Preprint at https://arxiv.org/abs/2404.14019 (2024).</br>
 
-- Springer Reference Style</br>
+- **Springer Reference Style**</br>
 Kang, M., Ting, F. F., Phan, R.C.-W., Ge, Z., Ting, C.-M.: A multimodal feature distillation with CNN-transformer network for brain tumor segmentation with incomplete modalities (2024), arXiv preprint [arXiv:2404.14019](https://arxiv.org/abs/2404.14019)</br>
 
-- Elsevier Numbered Style</br>
+- **Elsevier Numbered Style**</br>
 M. Kang, F.F. Ting, R.C.-W. Phan, Z. Ge, C.-M. Ting, A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities, arXiv preprint arXiv:2404.14019 (2024).</br>
 
-- Elsevier Name–Date (Harvard) Style</br>
+- **Elsevier Name–Date (Harvard) Style**</br>
 Kang, M., Ting, F. F., Phan, R.C.-W., Ge, Z., Ting, C.-M., 2024. A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities. arXiv preprint arXiv:2404.14019.</br>
 
-- APA7 (Author–Date) Style</br>
+- **APA7 (Author–Date) Style**</br>
 Kang, M., Ting, F.F., Phan, R.C.-W., Ge, Z., & Ting, C.-M. (2024). *A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities*. ArXiv, https://doi.org/10.48550/arXiv.2404.14019</br>
 
 > BibTeX Format</br>
