@@ -51,9 +51,9 @@ M. Kang, F.F. Ting, R.C.-W. Phan, Z. Ge, C.-M. Ting, A multimodal feature distil
 Kang, M., Ting, F. F., Phan, R.C.-W., Ge, Z., Ting, C.-M., 2024. A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities. arXiv preprint arXiv:2404.14019.</br>
 
 - **APA7 (Author–Date) Style**</br>
-Kang, M., Ting, F.F., Phan, R.C.-W., Ge, Z., & Ting, C.-M. (2024). *A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities*. ArXiv, https://doi.org/10.48550/arXiv.2404.14019</br>
+Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., & Ting, C.-M. (2024). *A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities*. ArXiv, https://doi.org/10.48550/arXiv.2404.14019</br>
 &nbsp;- **ICML (Author–Year) Variation**</br>
-Kang, M., Ting, F.F., Phan, R.C.-W., Ge, Z., and Ting, C.-M. A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities. *arXiv preprint arXiv:2404.14019*, 2024.</br>
+Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., and Ting, C.-M. A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities. *arXiv preprint arXiv:2404.14019*, 2024.</br>
 <sup>**NOTE:** For *NeurIPS* and *ICLR*, any reference/citation style is acceptable as long as it is used consistently.</sup>
 
 > BibTeX Format</br>
