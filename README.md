@@ -35,6 +35,8 @@ M. Kang, F. F. Ting, R. C.-W. Phan, Z. Ge, and C.-M. Ting, "A multimodal feature
 <sup>**NOTE:** This is a modification to the standard IEEE Reference Style and used by most IEEE/CVF conferences, including *CVPR*, *ICCV*, and *WACV*, to render first names in the bibliography as "Firstname Lastname" rather than "F. Lastname" or "Lastname, F.".</sup></br>
 &nbsp;- **IJCAI Full Name Variation**</br>
 \[Kang *et al.*, 2024\] Ming Kang, Fung Fung Ting, Raphaël C.-W. Phan, Zongyuan Ge, and Chee-Ming Ting. A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities. *arXiv preprint arXiv:2404.14019*, 2024.</br>
+&nbsp;- **ACL Full Name Variation**</br>
+\[Kang *et al.*, 2024\] Ming Kang, Fung Fung Ting, Raphaël C.-W. Phan, Zongyuan Ge, and Chee-Ming Ting. 2024. A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities. *arXiv preprint arXiv:2404.14019*.</br>
 
 - **Nature Reference Style**</br>
 Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., & Ting, C.-M. A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities. Preprint at https://arxiv.org/abs/2404.14019 (2024).</br>
@@ -50,7 +52,7 @@ Kang, M., Ting, F. F., Phan, R.C.-W., Ge, Z., Ting, C.-M., 2024. A multimodal fe
 
 - **APA7 (Author–Date) Style**</br>
 Kang, M., Ting, F.F., Phan, R.C.-W., Ge, Z., & Ting, C.-M. (2024). *A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities*. ArXiv, https://doi.org/10.48550/arXiv.2404.14019</br>
-&nbsp;- **ICML (Author–Date) Variation**</br>
+&nbsp;- **ICML (Author–Year) Variation**</br>
 Kang, M., Ting, F.F., Phan, R.C.-W., Ge, Z., and Ting, C.-M. A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities. *arXiv preprint arXiv:2404.14019*, 2024.</br>
 <sup>**NOTE:** For *NeurIPS* and *ICLR*, any reference/citation style is acceptable as long as it is used consistently.</sup>
 
