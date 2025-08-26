@@ -93,4 +93,4 @@ Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., and Ting, C.-M. A multimodal feat
 MCTSeg is released under the BSD 3-Clause "New" or "Revised" License. Please see the [LICENSE](https://github.com/mkang315/MCTSeg/blob/main/LICENSE) file for more information.
 
 ## Copyright Notice
-Many utility codes of our project base on the codes of [PyTorch-3DUNet](https://github.com/wolny/pytorch-3dunet), [Vision Transformer PyTorch](https://github.com/asyml/vision-transformer-pytorch), and [Factor-Transfer-pytorch](https://github.com/Jangho-Kim/Factor-Transfer-pytorch) repositories.
+Many utility codes of our project base on the codes of [M<sup>3</sup>AE](https://github.com/ccarliu/m3ae), [Vision Transformer PyTorch](https://github.com/asyml/vision-transformer-pytorch), and [Factor-Transfer-pytorch](https://github.com/Jangho-Kim/Factor-Transfer-pytorch) repositories.
