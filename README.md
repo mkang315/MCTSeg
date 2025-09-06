@@ -74,7 +74,7 @@ Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., and Ting, C.-M. A multimodal feat
   title = "A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities",
   howpublished = "arXiv preprint",
   note = "arXiv:2404.14019",
-  year = "2024",
+  year = "2024"
 }
 ```
 ```
