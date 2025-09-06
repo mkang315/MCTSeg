@@ -42,7 +42,7 @@ Ming Kang, Fung Fung Ting, Raphaël C.-W. Phan, Zongyuan Ge, and Chee-Ming Ting.
 Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z. & Ting, C.-M. A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities. Preprint at https://arxiv.org/abs/2404.14019 (2024).</br>
 
 - **Springer Reference Style**</br>
-Kang, M., Ting, F.F., Phan, R.C.-W., Ge, Z., Ting, C.-M.: A multimodal feature distillation with CNN-transformer network for brain tumor segmentation with incomplete modalities (2024), arXiv preprint [arXiv:2404.14019](https://arxiv.org/abs/2404.14019)</br>
+Kang, M., Ting, F.F., Phan, R.C.-W., Ge, Z., Ting, C.-M.: A multimodal feature distillation with CNN-transformer network for brain tumor segmentation with incomplete modalities (2024). arXiv preprint [arXiv:2404.14019](https://arxiv.org/abs/2404.14019)</br>
 
 - **Elsevier Numbered Style**</br>
 M. Kang, F.F. Ting, R.C.-W. Phan, Z. Ge, C.-M. Ting, A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities, arXiv preprint arXiv:2404.14019 (2024).</br>
@@ -69,22 +69,22 @@ Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., and Ting, C.-M. A multimodal feat
 \end{thebibliography}
 ```
 ```
-@unpublished{Kang24Mctseg,
-  author = "Kang, Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W. and Ge, Zongyuan and Ting, Chee-Ming",
-  title = "A multimodal feature distillation with {CNN}-{T}ransformer network for brain tumor segmentation with incomplete modalities",
-  howpublished = "arXiv preprint",
-  year = "2024",
-  doi= "10.48550/arXiv.2404.14019",
-  url = "https://doi.org/10.48550/arXiv.2404.14019"
-}
-```
-```
 @aunpublished{Kang24Mctseg,
   author = "Ming Kang and Fung Fung Ting and Rapha{\"e}l C.-W. Phan and Zongyuan Ge and Chee-Ming Ting",
   title = "A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities",
   howpublished = "arXiv preprint",
   note = "arXiv:2404.14019",
   year = "2024",
+}
+```
+```
+@unpublished{Kang24Mctseg,
+  author = "Kang, Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W. and Ge, Zongyuan and Ting, Chee-Ming",
+  title = "A multimodal feature distillation with {CNN}-{T}ransformer network for brain tumor segmentation with incomplete modalities",
+  note = "{a}rXiv preprint arXiv:2404.14019",
+  year = "2024",
+  doi= "10.48550/arXiv.2404.14019",
+  url = "https://doi.org/10.48550/arXiv.2404.14019"
 }
 ```
 <sup>**NOTE:** Please remove some optional *BibTeX* fields/tags such as `series`, `volume`, `address`, `url`, and so on if the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the bibliography/reference style (i.e., .bst) file. The *BibTex* citation key may be `bib1`, `b1`, or `ref1` when references appear in numbered style in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`, whereas the brace `{}` in the *BibTeX* field/tag `title` plays a role of keeping letters/characters/text original lower/uppercases or sentence/capitalized cases unchanged while using Springer Nature bibliography style files, for example, sn-nature.bst.</sup>
