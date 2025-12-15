@@ -89,6 +89,15 @@ Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., and Ting, C.-M. A multimodal feat
   url = "https://doi.org/10.48550/arXiv.2404.14019"
 }
 ```
+```
+@misc{Kang24Mctseg,
+  author = "Kang, Ming and Ting, Fung Fung and Phan, Rapha{\"e}l C.-W. and Ge, Zongyuan and Ting, Chee-Ming",
+  title = "{A Multimodal Feature Distillation with CNN-Transformer Network for Brain Tumor Segmentation with Incomplete Modalities}",
+  eprint= "2404.14019",
+  archivePrefix= "arXiv",
+  year = "2024"
+}
+```
 <sup>**NOTE:** Please remove some optional *BibTeX* fields/tags such as `series`, `volume`, `address`, `url`, and so on if the *LaTeX* compiler produces an error. Author names may be manually modified if not automatically abbreviated by the compiler under the control of the bibliography/reference style (i.e., .bst) file. The *BibTex* citation key may be `bib1`, `b1`, or `ref1` when references appear in numbered style in which they are cited. The quotation mark pair `""` in the field could be replaced by the brace `{}`, whereas the brace `{}` in the *BibTeX* field/tag `title` plays a role of keeping letters/characters/text original lower/uppercases or sentence/capitalized cases unchanged while using Springer Nature bibliography style files, for example, sn-nature.bst.</sup>
 
 ## License
