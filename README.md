@@ -58,6 +58,8 @@ Kang M, Ting FF, Phan RC-W, Ge Z, Ting C-M. A multimodal feature distillation wi
 
 - **APA7 (Author–Date) Style**</br>
 Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., & Ting, C.-M. (2024). *A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities*. ArXiv, https://doi.org/10.48550/arXiv.2404.14019</br>
+&nbsp;- **AAAI (Author–Year) Variation**</br>
+Kang, M.; Ting, F. F.; Phan, R. C.-W.; Ge, Z.; and Ting, C.-M. 2024. A Multimodal Feature Distillation with CNN-Transformer Network for Brain Tumor Segmentation with Incomplete Modalities. arXiv:2404.14019.</br>
 &nbsp;- **ICML (Author–Year) Variation**</br>
 Kang, M., Ting, F. F., Phan, R. C.-W., Ge, Z., and Ting, C.-M. A multimodal feature distillation with CNN-Transformer network for brain tumor segmentation with incomplete modalities. *arXiv preprint arXiv:2404.14019*, 2024.</br>
 <sup>**NOTE:** For **NeurIPS** and **ICLR**, any reference/citation style is acceptable as long as it is used consistently. The sample of references in Formatting Instructions For NeurIPS almost follows APA7 (author–date) style and that in Formatting Instructions For ICLR Conference Submissions is similar to IJCAI full name-year variation.</sup>
